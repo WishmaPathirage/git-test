@@ -1,0 +1,1 @@
+print("hello.....kohomada.....koheda inne...")
